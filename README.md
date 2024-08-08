@@ -2,41 +2,33 @@
 
 Profile: https://www.freecodecamp.org/nowshen
 
-Responsive Web Design
+## Responsive Web Design
+
 Certificate: https://www.freecodecamp.org/certification/nowshen/responsive-web-design
 
-<h3>Projects</h3>
-<ol>
-<li>Cat Photo App</li>
-<li>Cafe Manu</li>
-<li>Set of Colored Markers</li>
-<li>Registration Form</li>
-<li>Survey Form</li>
+### Projects
 
-<br/>
+1. Cat Photo App(https://github.com/nowshen-khan/fcc-responsive-web-design/tree/main/Cat%20Photo%20App)
+2. Cafe Manu(Cafe%20Manu/)
+3. Set of Colored Markers
+4. Registration Form
+5. Survey Form
 
-<li>Rothko Painting</li>
-<li>Photo Gallery</li>
-<li>Nutrition Label</li>
-<li>Quiz</li>
-<li>Tribute Page</li>
+6. Rothko Painting
+7. Photo Gallery
+8. Nutrition Label
+9. Quiz
+10. Tribute Page
 
-<br/>
+11. Balance Sheet
+12. Cat Painting
+13. Piano
+14. Technical Documentation Page
 
-<li>Balance Sheet</li>
-<li>Cat Painting</li>
-<li>Piano</li>
-<li>Technical Documentation Page</li>
+15. City Skyline
+16. Magazine
+17. Product Landing Page
 
-<br/>
-
-<li>City Skyline</li>
-<li>Magazine</li>
-<li>Product Landing Page</li>
-
-<br/>
-
-<li>Ferris Wheel</li>
-<li>Penguin</li>
-<li>Personal Portfolio Webpage</li>
-</ol>
+18. Ferris Wheel
+19. Penguin
+20. Personal Portfolio Webpage
