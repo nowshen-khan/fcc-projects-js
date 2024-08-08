@@ -8,8 +8,8 @@ Certificate: https://www.freecodecamp.org/certification/nowshen/responsive-web-d
 
 ### Projects
 
-1. Cat Photo App(https://github.com/nowshen-khan/fcc-responsive-web-design/tree/main/Cat%20Photo%20App)
-2. Cafe Manu(Cafe%20Manu/)
+1. [Cat Photo App](https://github.com/nowshen-khan/fcc-responsive-web-design/tree/main/Cat%20Photo%20App)
+2. [Cafe Manu](CafeManu\)
 3. Set of Colored Markers
 4. Registration Form
 5. Survey Form
